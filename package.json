@@ -1,0 +1,12 @@
+{
+  "name": "validate-edrpou",
+  "version": "0.0.1",
+  "description": "Node module that validates EDRPOU",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [
+    "EDRPOU", "ЄДРПОУ"
+  ],
+  "author": "Andrii Lazurenko <andrey.lazurenko@gmail.com>",
+  "license": "MIT"
+}
