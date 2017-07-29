@@ -46,3 +46,5 @@ const approach = (code, x = 0) => {
  * @returns {Boolean}
  */
 const validate = (code) => splitNumber(code).pop() === approach(code);
+
+module.exports = validate;
