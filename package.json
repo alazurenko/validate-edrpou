@@ -3,14 +3,20 @@
   "version": "0.0.3",
   "description": "Node module that validates EDRPOU",
   "main": "index.js",
-  "scripts": {},
+  "scripts": {
+    "test": "mocha test.spec.js"
+  },
   "keywords": [
-    "EDRPOU", "ЄДРПОУ"
+    "EDRPOU",
+    "ЄДРПОУ"
   ],
   "author": "Andrii Lazurenko (andrey.lazurenko@gmail.com)",
   "license": "MIT",
   "homepage": "https://github.com/alazurenko/validate-edrpou#readme",
   "bugs": {
     "url": "https://github.com/alazurenko/validate-edrpou/issues"
+  },
+  "devDependencies": {
+    "mocha": "^3.5.0"
   }
 }
