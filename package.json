@@ -1,6 +1,6 @@
 {
   "name": "validate-edrpou",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Node module that validates EDRPOU",
   "main": "index.js",
   "scripts": {
